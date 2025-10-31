@@ -16,20 +16,22 @@ O projeto utiliza:
 - 🖥️ **Interface amigável e interativa** com Streamlit
 
 
-2️⃣ Criar e ativar o ambiente virtual:
+
+
+### 2️⃣ **Criar e ativar o ambiente virtual:**
 
 python -m venv venv
 
-# Windows (PowerShell)
+### **Windows (PowerShell)**
 .\venv\Scripts\Activate
 
-# Instalar dependências:
+### **Instalar dependências:**
 pip install streamlit
 
-# Rodar a aplicação:
+### **Rodar a aplicação:**
 streamlit run app.py
 
-# 📂 Estrutura do Projeto
+### 📂 **Estrutura do Projeto**
 biblioteca-streamlit/
 │
 ├─ controller/
@@ -53,6 +55,6 @@ biblioteca-streamlit/
 ├─ venv/   (ambiente virtual, não versionado)
 └─ app.py
 
-# 👩‍💻 Autor
+### 👩‍💻 **Autor**
 
-Vivianne Renatta Melo de Arruda
+**Vivianne Renatta Melo de Arruda**
